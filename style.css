@@ -1,0 +1,31 @@
+.blacha{
+    height: 500px;
+    width: 500px;
+    border: 10px black solid;
+    margin-left: 350px;
+    border-radius: 1000px;
+    background-color: gray;
+      background-image: linear-gradient(gray, black);
+      display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ciasto{
+    height: 400px;
+    width: 400px;
+    border-radius: 1000px;
+  display: flex;
+    justify-content: center;
+    align-items: center;
+
+     background-image: linear-gradient( Wheat, brown);
+}
+
+.sos{
+      height: 350px;
+    width: 350px;
+    border-radius: 1000px;
+    
+    background-color: red;
+}
